@@ -10,6 +10,7 @@
 
 /* Screens */
 @import "screens/login.css";
+@import "screens/friends.css";
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -29,7 +30,7 @@ body {
 
 .welcome-header__text {
   width: 60%;
-  opacity: 0.4;
+  opacity: 0.7;
 }
 
 #login-form {
