@@ -8,10 +8,12 @@
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
 @import "components/user-component.css";
+@import "components/badge.css";
 
 /* Screens */
 @import "screens/login.css";
 @import "screens/friends.css";
+@import "screens/find.css";
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -71,4 +73,8 @@ body {
   text-decoration: none;
   color: inherit;
   font-size: 13px;
+}
+
+.main-screen {
+  padding: var(--horizontal-space);
 }

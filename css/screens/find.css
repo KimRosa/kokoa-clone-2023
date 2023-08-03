@@ -1,0 +1,27 @@
+.find-icons {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: var(--main-border);
+  padding-bottom: 25px;
+}
+.find-icons__icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.find-icons__icon i {
+  font-size: 35px;
+}
+.find-icons__icon span {
+  margin-top: 18px;
+}
+.nav__curcle2 {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  position: absolute;
+  right: 20px;
+  top: 66px;
+}
