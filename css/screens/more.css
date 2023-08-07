@@ -4,7 +4,7 @@
 }
 
 .more-screen .icon-row {
-  margin-top: 35px;
+  margin-top: 20px;
 }
 
 .more-suggestions {
@@ -15,4 +15,15 @@
 
 .more-suggestions__title {
   margin-bottom: 30px;
+}
+
+.more-screen .icon-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.more-screen .icon-row__icon {
+  width: 25%;
+  margin-top: 35px;
 }
