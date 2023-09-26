@@ -1,4 +1,6 @@
-# KOKOA CLONE
+# 카카오톡 클론코딩
 
-My first github uproad!
-So much fun!
+## 프로젝트 설명
+📆기간
+2023.07월~08월
+
