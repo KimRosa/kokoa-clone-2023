@@ -40,13 +40,21 @@ https://youtu.be/BryO7inuBbY
 
 
 #### 2. 친구 페이지
+<img width="686" alt="스크린샷 2023-09-26 오후 5 57 37" src="https://github.com/KimRosa/kokoa-clone-2023/assets/108081283/3f901c60-fa2b-4f59-8a76-08db15288b8e">
+
 
 
 #### 3. 채팅 페이지
+<img width="686" alt="스크린샷 2023-09-26 오후 5 51 25" src="https://github.com/KimRosa/kokoa-clone-2023/assets/108081283/615c1e4b-6d68-40d7-a7d0-23a1125acc6c">
+
 
 #### 4. 찾기 페이지
+<img width="686" alt="스크린샷 2023-09-26 오후 5 51 32" src="https://github.com/KimRosa/kokoa-clone-2023/assets/108081283/3c961aee-1abd-4e24-9a4a-6f13f57bc775">
+
 
 #### 5. 더보기 페이지
+<img width="686" alt="스크린샷 2023-09-26 오후 5 51 41" src="https://github.com/KimRosa/kokoa-clone-2023/assets/108081283/0a34b0d3-cac0-4047-96d7-e9cfb9949b32">
+
 
 
 
